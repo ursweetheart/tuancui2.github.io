@@ -1,0 +1,56 @@
+
+  
+  .head1{
+    font-family: Arial;
+    font-size: 37px;
+    margin-left: 10px;
+    font-weight: bold;
+  }
+
+  .about {
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(1, 95, 154);
+    border: none;
+    background-color: rgb(133, 197, 246);
+
+  }
+
+  .highlight {
+    color: rgb(1, 95, 154);
+    font-weight: bold;
+  }
+
+  .info{
+    font-family: Arial;
+  }
+
+  img {
+    width: 300px;
+    height: 160px;
+    float: right;
+  }
+
+    table,tr,td {
+    font-family: Arial;
+    font-weight: 600;
+    border-collapse: collapse;
+    border: 2px solid black;
+    text-align: left;
+  }
+
+  th {
+    font-family: Arial;
+    font-weight: 600;
+    border-collapse: collapse;
+    border: 2px solid black;
+    text-align: center;
+  }
+
+  .rowspan{
+    text-align: center;
+    font-weight: 800;
+  }
+
+
+
